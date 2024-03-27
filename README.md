@@ -14,7 +14,7 @@ Duncan Zeller   [@duncanzeller](https://github.com/duncanzeller/MIST4610-Group-5
 
 Jessica Hall @jessicahall57
 
-Owen Goble
+Owen Goble [@OwenGoble](https://github.com/OwenGoble/MIST4610-Group-5.git)
 
 ## Problem Description
 
