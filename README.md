@@ -66,6 +66,9 @@ In summary, our Tennis Club Data Model provides a comprehensive framework for ma
 
 ## Queries
 
+<img width="488" alt="checkboxes" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002443/a83621b1-1455-4c64-b8a0-7fb30f00e421">
+
+
 1. Analyzing Average Transaction Amount by Membership Type (Complex) - The query returns the member and average transaction amount for each member. This query helps the manager understand the spending behavior of different membership types, allowing them to tailor marketing strategies, perks, and offerings to maximize revenue generation. 
 <img width="798" alt="Screenshot 2024-03-27 at 10 27 12 AM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163002253/366fbb0f-134a-499b-98c7-945ac6c3925e">
 
