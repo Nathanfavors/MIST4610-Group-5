@@ -25,23 +25,23 @@ The ultimate goal is to create a practical database solution that streamlines da
 
 ## Data Model
 
-Here's an overview of the Tennis Club Data Model:
+Our data model is designed to streamline the management of a tennis club, catering to a range of activities and services. At the core of our model lies Membership Management, encompassing various membership options tailored to different needs. Each membership type is associated with distinct access levels and privileges within the club, ensuring a personalized experience for our members.
 
-Membership Management: We offer various membership options, including individual, family, and corporate memberships. Each membership type may have different access levels and privileges within the club.
+A pivotal feature of our system is the Court Reservation System, enabling members to effortlessly book tennis courts for matches or practice sessions. Courts of many different surface types may be booked. 
 
-Court Reservation System: Members should be able to easily book tennis courts for their matches or practice sessions. We may also have provisions for non-members to book courts on a pay-per-use basis.
+Tennis Programs and Coaching are integral components of our club's offerings, providing lessons and coaching sessions for players of all ages and skill levels. Whether through beginner, advanced, or specialized training programs, our aim is to nurture talent and foster a passion for the sport.
 
-Tennis Programs and Coaching: We provide tennis lessons and coaching sessions for players of all ages and skill levels. This includes group lessons, private coaching, and specialized training programs.
+Events, such as tournaments, form a vibrant aspect of our club's calendar, featuring regular competitions, leagues, and tournaments. From intra-club matches to larger-scale events open to members, our club provides ample opportunities for players to showcase their skills and engage in friendly competition.
 
-Events and Tournaments: Our club hosts regular events, leagues, and tournaments throughout the year. This includes intra-club competitions, friendly matches, and larger-scale tournaments open to members and non-members alike.
+Our Pro Shop and Equipment Rental services cater to members' equipment needs, offering a range of tennis gear, apparel, and accessories. Additionally, we facilitate equipment rental for those seeking temporary access to racquets, balls, and other essentials.
 
-Pro Shop and Equipment Rental: We have a pro shop on-site offering tennis equipment, apparel, and accessories. Additionally, we may provide rental services for tennis racquets, balls, and other gear.
+Facilities Management is paramount to ensuring a seamless experience for our members and guests. We maintain our tennis courts, clubhouse, locker rooms, and other amenities to uphold cleanliness, safety, and functionality standards.
 
-Facilities Management: We maintain our tennis courts, clubhouse, locker rooms, and other amenities to ensure they are clean, safe, and well-equipped for our members and guests.
+Billing and Payments are efficiently handled through our system, managing membership fees, court reservations, coaching charges, and other transactions. We facilitate seamless payment processing, invoicing, and membership renewals to streamline financial operations.
 
-Billing and Payments: We handle membership fees, court reservations, coaching fees, and other transactions through our billing system. This includes processing payments, issuing invoices, and managing membership renewals.
+Member Communication is facilitated through various channels, including email newsletters and our club website. Emails are sorted based on content such as raquet inquiries from members and automatic payment reminds from the club itself.
 
-Member Communication: We communicate with our members through various channels, such as email newsletters, social media, and our club website. We may also have a mobile app for convenient access to club information and updates.
+In summary, our Tennis Club Data Model provides a comprehensive framework for managing the diverse aspects of club operations, from membership and court reservations to coaching, events, facilities management, billing, and member communication.
 
 <img width="625" alt="Screenshot 2024-03-27 at 1 25 29 PM" src="https://github.com/ekmcneice/MIST4610-Group-5/assets/163003449/69526a99-2818-4747-971e-e748ff995fd7">
 
